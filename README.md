@@ -22,13 +22,13 @@ Linguagens Utilizadas 🪄
 
 Como Usar🧙
 ---
-Navegue pelas pastas de categorias. 📂
+- Navegue pelas pastas de categorias. 📂
 
-Copie o código do componente escolhido. 📝
+- Copie o código do componente escolhido. 📝
 
-Cole no seu projeto e veja a mágica acontecer! ⚡
+- Cole no seu projeto e veja a mágica acontecer! ⚡
 
->> 🦉 Contribuições <<
+> 🦉 Contribuições 
 Sinta-se à vontade para enviar novos modelos via Pull Request! 🥘🦇
 
 Desenvolvido para facilitar a vida de quem domina as artes digitais. 🔮🌑🧹
