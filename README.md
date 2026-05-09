@@ -1,4 +1,5 @@
-# A Biblioteca da Programadora 🧙‍♀️✨
+# A Biblioteca da Programadora 🧙‍♀️✨ <img width="498" height="373" alt="BlackCatSalemCauldronGIF" src="https://github.com/user-attachments/assets/8d8238bf-1e7b-4056-ae28-22074109426d" />
+
 Repositório de códigos coringas e modelos prontos para acelerar o desenvolvimento web e facilitar na hora de programar, espero que também lhe ajude se achar algo que interesse!! 🐈‍⬛
 
 Objetivo
