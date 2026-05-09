@@ -1,7 +1,8 @@
 # A Biblioteca da Programadora 🧙‍♀️✨
 Repositório de códigos coringas e modelos prontos para acelerar o desenvolvimento web e facilitar na hora de programar, espero que também lhe ajude se achar algo que interesse!! 🐈‍⬛
 
->> Objetivo
+Objetivo
+---
 Facilitar a programação do dia a dia com componentes prontos para copiar, colar e usar. 
 
 📜 O que tem no Respositório?
@@ -11,9 +12,9 @@ Facilitar a programação do dia a dia com componentes prontos para copiar, cola
 
 >> EM CONSTRUÇÃO:
 
-Efeitos: Animações e transições mágicas. ✨
-Resets: Códigos base para começar qualquer projeto. 🕯️
----
+- Efeitos: Animações e transições mágicas. ✨
+- Resets: Códigos base para começar qualquer projeto. 🕯️
+
 Linguagens Utilizadas 🪄
 
 -HTML5 🦴
