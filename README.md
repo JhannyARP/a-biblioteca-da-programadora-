@@ -10,7 +10,7 @@ Facilitar a programação do dia a dia com componentes prontos para copiar, cola
 
 - Componentes: Botões, cards e menus estilizados. 💎
 
->> EM CONSTRUÇÃO: <<
+>EM CONSTRUÇÃO:> 
 
 - Efeitos: Animações e transições mágicas. ✨
 - Resets: Códigos base para começar qualquer projeto. 🕯️
